@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "delayMs": 1500,
+  "whitelistOnly": false,
+  "whitelist": [],
+  "blacklist": [],
+  "answerKeyword": "",
+  "minIntervalMs": 0,
+  "dailyLimit": 0,
+  "welcome": "",
+  "notifyMaster": true
+}

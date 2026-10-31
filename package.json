@@ -1,0 +1,14 @@
+{
+  "name": "auto-friend-plugin",
+  "version": "1.0.0",
+  "description": "Yunzai 自动同意好友请求插件：支持验证关键词、黑白名单、防刷、主人通知与欢迎语",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "yunzai",
+    "plugin",
+    "auto-friend",
+    "friend-request"
+  ],
+  "license": "MIT"
+}
